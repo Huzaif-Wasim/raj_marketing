@@ -1,0 +1,21 @@
+.navbar {
+    border: 2px solid lightblue;
+  }
+
+  .bi-lightning-charge-fill {
+    margin-bottom: 4px;
+  }
+
+  .dropdown-toggle::after {
+    margin-bottom: -2px;
+  }
+  .container{
+    max-width: 1140px;
+  }
+  .folio {
+    display: flex;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+  }
